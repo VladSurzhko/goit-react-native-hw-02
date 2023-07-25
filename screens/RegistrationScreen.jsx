@@ -158,7 +158,7 @@ const styles = StyleSheet.create({
     borderRadius: 12.5,
     borderWidth: 1,
     position: "absolute",
-    top: 81,
-    right: -12.5,
+    top: 90,
+    right: 0,
   },
 });

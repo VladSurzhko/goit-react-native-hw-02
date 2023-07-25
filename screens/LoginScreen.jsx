@@ -33,7 +33,7 @@ export const Login = () => {
           <Text style={styles.title}>Увійти</Text>
           <TextInput
             style={[styles.commonTextParams, styles.input]}
-            placeholder="Адреса електронної пошти"
+            placeholder="Адреса електронної пошти "
             onFocus={() => setIsOpenKeyboard(true)}
           ></TextInput>
           <View>
